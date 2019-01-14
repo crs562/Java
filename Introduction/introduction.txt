@@ -1,0 +1,10 @@
+Java Application: Android, Hadoop, Selenium, SAP, WebApp, Cloud Computing, ADF
+
+Programming Language: C, C++
+1. Platform Dependent
+
+Internet = Interconnection + Network
+Oak
+Java:
+Sun Microsystems: James Ghosling, Patrick Naughtan, Chris Warth, Mike Sheridan
+Ed Frank,... Green Team

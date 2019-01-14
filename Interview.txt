@@ -1,0 +1,6 @@
+Q1. Is JVM platform dependent or independent?
+A1. Platform Dependent
+---------------------------------------------------
+Q2. Is .class file Platform dependent or independent?
+A2. Platform Independent, Platform is JVM
+---------------------------------------------------
