@@ -8,3 +8,18 @@ Oak
 Java:
 Sun Microsystems: James Ghosling, Patrick Naughtan, Chris Warth, Mike Sheridan
 Ed Frank,... Green Team
+-----------------------------------------------------------------------------
+1. J2SE - Java SE - Standard Edition
+2. J2EE - Java EE - Enterprise Edition
+3. J2ME - Java ME - Micro Edition
+(embedded apps - micro-controllers, sensors, gateways, printers, PDA, mobiles,...)
+-----------------------------------------------------------------------------
+JDK - Java Development Kit
+JRE - Java Runtime Environment
+-----------------------------------------------------------------------------
+In a standalone Java program - the starting point of execution is
+public static void main(String[] args)
+String[] args -- Command line argument
+Packages - java.lang.System, java.lang.String;
+-----------------------------------------------------------------------------
+javap is used to check profile of a class
