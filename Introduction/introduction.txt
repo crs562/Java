@@ -23,3 +23,68 @@ String[] args -- Command line argument
 Packages - java.lang.System, java.lang.String;
 -----------------------------------------------------------------------------
 javap is used to check profile of a class
+-----------------------------------------------------------------------------
+Variable Naming Rules:
+1. A Variable Name can have Alpha-Numeric characters (A-Z, a-z, 0-9), Underscore (_),
+and Dollar Sign ($)
+2. A VAriable Name should start with a letter or $ symbol or underscore (_)
+3. No space is allowed between the characters of a variable name
+4. Variable names are case sensitive
+5. A VAriable name should not be a reserved keyword of Java
+--------------------------------------------------------------------------------
+Data Types:
+1. Primitive/Fundamental Data Types
+	a. Numeric Data Types
+		1. Integer Data Types - used for declaring integer variable
+			1. byte - 1 byte of memory (8 bits) - (-128 to +127)
+			2. short - 2 byte of memory (16 bits)
+			3. int - 4 byte of memory (32 bits) 
+			4. long - 8 byte of memory (64 bits) 
+		2. Real/Floating Point Data Types
+			1. float - 4 bytes of memory
+			2. double - 8 bytes of memory
+	b. Character Data Types
+		1. char - 2 bytes of memory - Unicode characters \u<hexa decimal value>
+			\u0000 - \uffff - (A, 65, \u0041)
+	c. Boolean Data Types
+		1. boolean - 1 byte of memory - true/false
+2. Abstract Data Types (ADTs)
+--------------------------------------------------------------------------------
+In Java any integer number stored by default int.
+In Java any number with decimal point treted by default double.
+----------------------------------------------------------------------------------
+Operators
+a. Unary Operator n++
+b. Binary Operators x+y
+1. Arithmetic Operator + - * / %
+2. Increment & Decrement Operator ++ --
+3. Assignment Operators = += -= *= /= %=
+4. Relational Operator < > <= >= == !=
+5. Logical Operators && || ! ((a>b) && (a>c))
+6. Negation Operator - ; int n = 10; int n1 = -n;
+7. String/Concatenation Operator +
+----------------------------------------------------------------------------------
+Condition Statements:
+1. if statement
+	a. simple if statement
+	b. if...else statement
+	c. nested if statement
+	d. ladder if statement
+		if...else if...else if...else
+2. switch statement
+-------------------------------------------------------------------------------------
+Loops
+1. while loop -- purely condition based
+2. do...while loop
+3. for loop
+4. extended for loop (JDK 1.5)
+while(condition) { statements // 0 or more than 0 times }
+do { statements // 1 or more than 1 time } while(condition)
+for(initialization;condition;inc/dec){statements//0 or more than 0 times}
+-------------------------------------------------------------------------------------
+Debug the Program
+1. Change the Eclipse perspective to Debug
+	eclipse > Window > Perspective > Open Perspective > Debug
+2. Set a Breakpoint
+3. Debug the program
+4. F5(Step into)/F6(Step Over)

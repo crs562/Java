@@ -4,3 +4,11 @@ A1. Platform Dependent
 Q2. Is .class file Platform dependent or independent?
 A2. Platform Independent, Platform is JVM
 ---------------------------------------------------
+Q3. In Java, Why char data type use 2 bytes of memory?
+A3. Java support unicode characters
+---------------------------------------------------
+Q4 int n = 5; n*=n += 10; System.out.println(n); What is the output?
+A4. n = n * (n + 10)
+----------------------------------------------------
+Q5. int n=1; while(n++ <= 5); System.out.println(n); what is the output?
+A5. 7
