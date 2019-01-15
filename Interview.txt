@@ -12,3 +12,21 @@ A4. n = n * (n + 10)
 ----------------------------------------------------
 Q5. int n=1; while(n++ <= 5); System.out.println(n); what is the output?
 A5. 7
+----------------------------------------------------
+Q6. What is bytecode?
+A6. Bytecode is an intermediate code which gets generated when a Java file is compiled using
+	a Javac compiler. After compilation .class file is generated which contains the byte
+	code. This code is platform independent.
+-------------------------------------------------------
+Q7. What is the advantage of executing parallel threads/tasks at a time?
+A7. When many tasks/threads run at the same time, performance of the system increases.
+--------------------------------------------------------------
+Q8. Why do you think we need byte, short and long datatypes when int can be used?
+A8. 'byte' takes 1 byte, 'short' takes 2 byte and 'int' takes 4 bytes in memory. If we know
+	that the variable need not be very big then 'short' is fine as it reduces the memory
+	consumption which inturn increases the performance of the project.
+-------------------------------------------------------------------------------
+Q9. What could be the advantage of using loops?
+A9. The advantage of using loops is that, we can reduce code repetition by placing the
+	statements to be repeated within a loop. As a result developer's effort will be
+	very less.

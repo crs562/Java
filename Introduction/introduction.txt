@@ -1,6 +1,6 @@
 Java Application: Android, Hadoop, Selenium, SAP, WebApp, Cloud Computing, ADF
 
-Programming Language: C, C++
+Programming Language: C, C++, Visual Basics, Python
 1. Platform Dependent
 
 Internet = Interconnection + Network
@@ -8,6 +8,20 @@ Oak
 Java:
 Sun Microsystems: James Ghosling, Patrick Naughtan, Chris Warth, Mike Sheridan
 Ed Frank,... Green Team
+-----------------------------------------------------------------------------
+Java is a computer programming language that is
+1. Concurrent
+2. class-based
+3. Object-oriented
+4. Specifically designed to have as few implementation dependencies as possible
+5. highly secured
+-----------------------------------------------------------------------------
+The primary goal was to replace C++
+1. C++ does not provide efficient means for garbage collection
+2. No build in support for threads
+3. It gets complex when you want to develop a graphics rich application
+4. C++ is not platform independent
+5. In C++ memory allocation and de-allocation has to be done by the developer
 -----------------------------------------------------------------------------
 1. J2SE - Java SE - Standard Edition
 2. J2EE - Java EE - Enterprise Edition
